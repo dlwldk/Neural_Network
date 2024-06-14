@@ -38,4 +38,4 @@ SGD 대신 Adagrad 옵티마이저를 사용하여 신경망 학습 후 epoch �
 1. `training.txt` 파일에서 데이터 로드
 2. 신경망 모델을 생성하고 Adagrad 옵티마이저를 사용하여 학습
 3. training loss 계산하여 저장
-4. 각 epoch에서 training loss 플롯팅
+4. 각 epoch에서 training loss 플롯팅
