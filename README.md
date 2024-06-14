@@ -15,7 +15,7 @@
 
 ### (a) 학습 및 검증 손실 플로팅
 
-SGD 옵티마이저를 사용해 신경망 학습 후 epoch 당 평균 제곱 오차(MSE)에 대한 학습 및 검증 손실 그래프로 시각화
+SGD 옵티마이저를 사용해 신경망 학습 후 epoch 당 평균 제곱 오차(MSE)에 대한 training&validaition loss 그래프로 시각화
 
 1. `training.txt` 파일과 `test.txt` 파일에서 데이터 로드
 2. 신경망 모델을 생성 및 학습
@@ -24,7 +24,7 @@ SGD 옵티마이저를 사용해 신경망 학습 후 epoch 당 평균 제곱 �
 
 ### (b) 은닉층 크기에 따른 학습 손실 비교
 
-hidden layer의 크기를 2에서 16까지 변화시키면서 신경망을 학습 후 각 경우에 대한 학습 손실 비교
+hidden layer의 크기를 2에서 16까지 변화시키면서 신경망을 학습 후 각 경우에 대한 training loss 비교
 
 1. `training.txt` 파일에서 데이터 로드
 2. hidden layer 크기에 따라 신경망 모델을 생성 및 학습
