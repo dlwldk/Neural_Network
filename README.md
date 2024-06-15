@@ -6,7 +6,7 @@
 - `training.txt`: 학습 데이터셋 파일
 - `test.txt`: 검증 데이터셋 파일
 
-## 요구 사항
+## 환경 및 라이브러리
 - Python 3.x
 - Numpy
 - Matplotlib
